@@ -1,0 +1,7 @@
+
+
+how to change to root user:
+$ sudo su
+
+how to get out of root user:
+$ exit
